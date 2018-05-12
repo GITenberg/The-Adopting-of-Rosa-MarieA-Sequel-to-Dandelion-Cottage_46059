@@ -1,0 +1,39 @@
+_repo: The-Adopting-of-Rosa-MarieA-Sequel-to-Dandelion-Cottage_46059
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Shinn, Florence Scovel
+    alias: Scovel-Shinn, Florence
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '41688'
+    url: http://www.gutenberg.org/2009/agents/41688
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Scovel_Shinn
+  - agent_name: Selss, Miriam
+    gutenberg_agent_id: '43595'
+    url: http://www.gutenberg.org/2009/agents/43595
+covers:
+- cover_type: archival
+  image_path: 46059-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rankin, Carroll Watson
+    birthdate: 1870
+    gutenberg_agent_id: '38085'
+    url: http://www.gutenberg.org/2009/agents/38085
+description: ''
+gutenberg_issued: '2014-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toddlers -- Care -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Abandoned children -- Juvenile fiction'
+- !lcsh 'Humanitarianism -- Juvenile fiction'
+title: "The Adopting of Rosa Marie\r\n(A Sequel to Dandelion Cottage)"
+url: http://www.gutenberg.org/ebooks/46059
